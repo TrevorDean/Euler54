@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Euler1/.idea/Euler1.iml" filepath="$PROJECT_DIR$/../Euler1/.idea/Euler1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Euler2/.idea/Euler2.iml" filepath="$PROJECT_DIR$/../Euler2/.idea/Euler2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Euler54.iml" filepath="$PROJECT_DIR$/.idea/Euler54.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestProject/.idea/TestProject.iml" filepath="$PROJECT_DIR$/../TestProject/.idea/TestProject.iml" />
+    </modules>
+  </component>
+</project>
